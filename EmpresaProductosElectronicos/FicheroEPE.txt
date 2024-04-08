@@ -1,0 +1,2 @@
+[27/06/2022 18:25][admin][LOGIN]
+[27/06/2022 18:26][admin][SELECT * FROM recibos]
